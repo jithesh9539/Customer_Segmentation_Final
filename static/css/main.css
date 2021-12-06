@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(252, 250, 252);
+}
+.card {
+    box-shadow: 0 0.5rem 1rem rgb(0 0 0 / 5%), inset 0 -1px 0 rgb(0 0 0 / 15%);
+}
+.container {
+    padding: 30px;
+    margin-top: 40px;
+}
+.form-group {
+    margin: 10px;
+}
+.btn-wrap {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+.result {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.Bronze {
+    color: #cd7f32;
+}
+.Platinum {
+    color: #e5e4e2;
+}
+.Gold {
+    color: #FFD700;
+}
+.Silver {
+    color: #C0C0C0;
+}
