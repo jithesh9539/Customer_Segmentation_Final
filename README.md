@@ -1,1 +1,2 @@
-# Customer_Segmentation_Final
+# CMPE255 Project 
+Topic Customer Segmentation 
