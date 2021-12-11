@@ -1,5 +1,5 @@
 ## CMPE 255 Project  
-### Customer Segmentation
+### CUSTOMER SEGMENTATION
 
 #### Team Data Marvels
    Priyanka Math                      015240134
