@@ -18,15 +18,19 @@ Deployed application:
 https://customers-segmentation.herokuapp.com/
 
 Colab Link: 
+
 https://github.com/jithesh9539/Customer_Segmentation_Final/blob/main/Customer_Segmentation_CMPE255.ipynb
 
 Source Code: 
+
 https://github.com/jithesh9539/Customer_Segmentation_Final
 
 Presentation slides: 
+
 https://docs.google.com/presentation/d/1I5YKlHeuYH2PUvzDs9w-dFgN_ZmU2pOK/edit?usp=sharing&ouid=104997974892965810457&rtpof=true&sd=true
 
 Project Demo (Presentation Video): 
+
 https://drive.google.com/file/d/1XfkgutaQSQeq-omNQfEWxmKSAEdUDtKI/view?usp=sharing
 
 ### DEPLOYED APP:
